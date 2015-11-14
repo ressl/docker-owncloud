@@ -2,7 +2,6 @@ safematix/docker-owncloud
 =======
 
 [![Automated Build](http://img.shields.io/badge/automated-build-green.svg)](https://hub.docker.com/r/safematix/owncloud)
-[![Build Status](https://img.shields.io/circleci/project/dock0/nginx.svg)](https://hub.docker.com/r/safematix/owncloud)
 [![GPLv3 Licensed](http://img.shields.io/badge/license-GPLv3-green.svg)](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
 
 ### Usage

@@ -1,4 +1,4 @@
-FROM owncloud
+FROM owncloud:8.2.1
 
 MAINTAINER Robert Ressl <r.ressl@safematix.com>
 
